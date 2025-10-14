@@ -1,7 +1,6 @@
 {
   "status": "2",
   "message": "이 PC는 실행이 제한되어 있습니다.",
-  "allowed_users": ["3854476", "tester"],
   "blocked_hosts": ["DESKTOP-ABC123", "LAPTOP-JKLEE"],
   "admin_only": true,
   "updated": "2025-10-14T09:45:00"
