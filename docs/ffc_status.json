@@ -2,9 +2,8 @@
   "status": "1",
   "message": "서버와 연결할 수 없습니다.",
   "blocked_hosts": [
-    "LAPTOP-JKLEEeee",
-    "3854476"
+    "LAPTOP-JKLEEeee"
   ],
   "admin_only": true,
-  "updated": "2025-10-14T14:19:07.701516"
+  "updated": "2025-10-14 14:24"
 }
