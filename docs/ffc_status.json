@@ -2,6 +2,6 @@
   "status": "2",
   "message": "이 PC는 실행이 제한되어 있습니다.",
   "blocked_hosts": ["3854476", "LAPTOP-JKLEE"],
-  "admin_only": false,
+  "admin_only": true,
   "updated": "2025-10-14T09:45:00"
 }
